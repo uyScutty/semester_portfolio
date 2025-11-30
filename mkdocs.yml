@@ -12,11 +12,11 @@ nav:
   - Forside: index.md
 
   - Blog:
-      - AI & ML blog: "Blog/AI-ML/index.md"
-      - Software Arkitektur blog: "Blog/Software-arkitektur-blog/index.md"
+      - AI & ML blog: "Blog/AI-ML-blog/"
+      - Software Arkitektur blog: "Blog/Software-arkitektur-blog/"
 
   - Semester:
       - Velkomst: "Semester/Index.md"
-      - AI & ML: "Semester/AI-ML/index.md"
-      - Software Arkitektur & Design Patterns: "Semester/Software-arkitektur-projekter/index.md"
-      - Shared: "Semester/Shared/index.md"
+      - AI & ML: "Semester/AI-ML/"
+      - Software Arkitektur & Design Patterns: "Semester/Software-arkitektur-projekter/"
+      - Shared: "Semester/Shared/"

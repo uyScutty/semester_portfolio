@@ -1,0 +1,414 @@
+{
+  "main": {
+    "id": "17c1c7bbe2903285",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0012231dd930df1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1bc2818ed4d3439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester_projekt/software-arkitektur/Sprints/Sprint 7 Software arkitektur & Design patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprint 7 Software arkitektur & Design patterns"
+            }
+          },
+          {
+            "id": "68affadf95f2d4b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester_projekt/Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "e32342a52c815824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester/AI & ML/AI & ML projekter/Prototype til projekt/Chatbot 6 - Implementation af Agent prototype i swagger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chatbot 6 - Implementation af Agent prototype i swagger"
+            }
+          },
+          {
+            "id": "7c31be6a0a6fcb26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester/AI & ML/AI & ML projekter/Chatbot i Python test 1. ( Setup & in memory vector søgning).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chatbot i Python test 1. ( Setup & in memory vector søgning)"
+            }
+          },
+          {
+            "id": "16e3285790e82e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Software arkitektur og Design patterns blog/1. Software arkitektur & Design patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Software arkitektur & Design patterns"
+            }
+          },
+          {
+            "id": "34e56f945a61a653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Software arkitektur og Design patterns blog/1. Software arkitektur & Design patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Software arkitektur & Design patterns"
+            }
+          },
+          {
+            "id": "bec530bfb813fda0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Software arkitektur og Design patterns blog/1. Software arkitektur & Design patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Software arkitektur & Design patterns"
+            }
+          },
+          {
+            "id": "4457f7b65be0edb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Software arkitektur og Design patterns blog/1. Software arkitektur & Design patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Software arkitektur & Design patterns"
+            }
+          },
+          {
+            "id": "a19726370a0cccb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hemmeligt/4. Hvorfor Layered architecture ikke var det rigtige.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Hvorfor Layered architecture ikke var det rigtige"
+            }
+          },
+          {
+            "id": "13b3e189b32903c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Software arkitektur og Design patterns blog/7. Software arkitektur & Design patterns..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Software arkitektur & Design patterns."
+            }
+          },
+          {
+            "id": "169d493765a2d677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Software arkitektur og Design patterns blog/7. Software arkitektur & Design patterns..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Software arkitektur & Design patterns."
+            }
+          },
+          {
+            "id": "5c624d5be7cca29a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Software arkitektur og Design patterns blog/9. DDD - Forståelse af domænet..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. DDD - Forståelse af domænet."
+            }
+          },
+          {
+            "id": "07cc98cd6b18f55e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/AI & ML blog/3. AI & ML - LLM modeller og transformers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. AI & ML - LLM modeller og transformers"
+            }
+          },
+          {
+            "id": "9c02ff0a2b6e53e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Software arkitektur og Design pattern blogs blog/10. Afslutning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "10. Afslutning"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bf1b8aa10474f57",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c7502f2f76b6812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae6049a23b618d29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "74be8115a2aa53fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e659c027ff85f30e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "933bdf01ddf1a613",
+    "type": "split",
+    "children": [
+      {
+        "id": "39dbf29d0b7ae7ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02ff2fe6a5d9774c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Semester_projekt/ai-ml/Læringsmål.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Læringsmål"
+            }
+          },
+          {
+            "id": "f29af0a31430a3ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semester_projekt/ai-ml/Læringsmål.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Læringsmål"
+            }
+          },
+          {
+            "id": "626a5a43909a4881",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7f6f089fbe987f05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semester_projekt/ai-ml/Læringsmål.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Læringsmål"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7c31be6a0a6fcb26",
+  "lastOpenFiles": [
+    "Semester/AI & ML/Læringsmål Ai & ML.md",
+    "Semester/Software arkitektur og design pattern projekters/Læringsmål Software arkitektur.md",
+    "Semester/AI & ML/AI & ML projekter/Prototype til projekt/Chatbot 6 - Implementation af Agent prototype i swagger.md",
+    "Semester/Software arkitektur og design pattern projekters/Projekter/Prototype til projekt/Prototype implementering til projekt.md",
+    "Semester/AI & ML/Index.md",
+    "Semester/AI & ML/AI med et snært af ML.md",
+    "Semester/AI & ML/Sikkerhed i forhold til projektet cahtbotten.md",
+    "Semester/Software arkitektur og design pattern projekters/Index.md",
+    "Hemmeligt/3. Monolith til Modulær Monolith.md",
+    "Hemmeligt/4. Hvorfor Layered architecture ikke var det rigtige.md",
+    "Hemmeligt/ai chatbot.md",
+    "Hemmeligt/øfferi.md",
+    "Pasted image 20251130125913.png",
+    "Pasted image 20251129140606.png",
+    "Pasted image 20251129140218.png",
+    "Pasted image 20251129140022.png",
+    "Pasted image 20251129135616.png",
+    "Pasted image 20251129135535.png",
+    "Pasted image 20251129135424.png",
+    "Arkitekturvalg til projektet.md",
+    "Semester/Software arkitektur og design pattern projekters/Software arkitektur forståelse og analyse/4. Domæne driven design - DDD patterns..md",
+    "Semester/Software arkitektur og design pattern projekters/Software arkitektur forståelse og analyse/3.Vertical slice.md",
+    "Semester/Software arkitektur og design pattern projekters/Software arkitektur forståelse og analyse/2. Clean architecture og modulær monolith..md",
+    "Semester/Software arkitektur og design pattern projekters/Software arkitektur forståelse og analyse/1. Arkitektur gennemgang og korte analyser..md",
+    "Semester/Software arkitektur og design pattern projekters/Software arkitektur forståelse og analyse/Patterns/Repository pattern i vores projekt..md",
+    "Semester/Software arkitektur og design pattern projekters/Software arkitektur forståelse og analyse/Patterns/CQRS i vores projekt med vertical slice.md",
+    "Semester/Software arkitektur og design pattern projekters/Projekter/Observer Pattern vs. Domain Event.md",
+    "Semester/Software arkitektur og design pattern projekters/Software arkitektur forståelse og analyse/Patterns/Domain Events VS. Observer Pattern.md",
+    "Semester/Software arkitektur og design pattern projekters/Projekter/Strategy pattern.md",
+    "Semester/Software arkitektur og design pattern projekters/Projekter/Factory pattern.md",
+    "Blog/Software arkitektur og Design pattern blogs blog/9. DDD - Forståelse af domænet..md",
+    "Blog/Software arkitektur og Design pattern blogs blog/10. Afslutning.md",
+    "Blog/AI & ML blog/10. AI & ML - Projektrelateret agent implmentering..md",
+    "Pasted image 20251128160901.png",
+    "Pasted image 20251128142320.png",
+    "Semester/Software arkitektur og design pattern projekters/Projekter/Prototype til projekt",
+    "Semester/AI & ML/AI & ML projekter/Prototype til projekt",
+    "Pasted image 20251128123639.png",
+    "Semester/AI & ML",
+    "Semester/Software arkitektur og design pattern projekters/Software arkitektur forståelse og analyse",
+    "Semester/AI & ML/AI & ML begreber forståelse og analyse",
+    "Semester/AI & ML/AI & ML projekter",
+    "Hemmeligt",
+    "Semester/Software arkitektur og design pattern projekters/Projekter",
+    "Semester/Software arkitektur og design pattern projekters/Software arkitektur forståelse og analyse/Patterns",
+    "Blog"
+  ]
+}

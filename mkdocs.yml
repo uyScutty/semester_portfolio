@@ -1,5 +1,8 @@
 site_name: Semester Portfolio
 site_description: Min læringsportfolio for AI, ML og Software Arkitektur
+site_url: https://uyscutty.github.io/semester_portfolio/
+use_directory_urls: true
+
 
 theme:
   name: material

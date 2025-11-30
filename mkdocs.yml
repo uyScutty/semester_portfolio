@@ -18,7 +18,7 @@ nav:
       - Software Arkitektur blog: Blog/Software-arkitektur-blog/index.md
 
   - Semester:
-      - Velkomst: Semester/index.md
-      - AI & ML: Semester/AI-ML/index.md
-      - Software Arkitektur & Design Patterns: Semester/Software-arkitektur-projekter/index.md
+      - Velkomst: Semester/Index.md
+      - AI & ML: Semester/AI-ML/Index.md
+      - Software Arkitektur & Design Patterns: Semester/Software-arkitektur-projekter/Index.md
       - Shared: Semester/Shared/index.md

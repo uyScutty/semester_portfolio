@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Semester Portfolio
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Velkommen til min læringsportfolio for AI, ML og Software Arkitektur.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Her kan du finde:
+- Blogindlæg
+- Noter
+- Projekter
+- Læringsmål
+- Arkitektur-analyser
+- AI & ML eksperimenter

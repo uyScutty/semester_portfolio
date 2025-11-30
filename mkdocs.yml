@@ -10,11 +10,13 @@ theme:
 
 nav:
   - Forside: index.md
+
   - Blog:
-      - AI & ML blog: Blog/AI & ML blog/
-      - Software Arkitektur blog: Blog/Software arkitektur og Design pattern blogs blog/
+      - AI & ML blog: "Blog/AI & ML blog/"
+      - Software Arkitektur blog: "Blog/Software arkitektur og Design pattern blogs blog/"
+
   - Semester:
-      - Velkomst: Semester/Welcome.md
-      - AI & ML: Semester/AI & ML/
-      - Software Arkitektur & Design Patterns: Semester/Software arkitektur og design pattern projekters/
-      - Shared: Semester/Shared/
+      - Velkomst: "Semester/Welcome.md"
+      - AI & ML: "Semester/AI & ML/"
+      - Software Arkitektur & Design Patterns: "Semester/Software arkitektur og design pattern projekters/"
+      - Shared: "Semester/Shared/"

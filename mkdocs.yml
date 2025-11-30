@@ -8,18 +8,15 @@ theme:
     - navigation.sections
     - navigation.top
 
-plugins:
-  - search
-
 nav:
   - Forside: index.md
 
   - Blog:
-      - AI & ML blog: "Blog/AI & ML blog/index.md"
-      - Software Arkitektur blog: "Blog/Software arkitektur og Design pattern blogs blog/index.md"
+      - AI & ML blog: "Blog/AI-ML/index.md"
+      - Software Arkitektur blog: "Blog/Software-arkitektur-blog/index.md"
 
   - Semester:
-      - Velkomst: "Semester/Welcome.md"
-      - AI & ML: "Semester/AI & ML/index.md"
-      - Software Arkitektur & Design Patterns: "Semester/Software arkitektur og design pattern projekters/index.md"
+      - Velkomst: "Semester/Index.md"
+      - AI & ML: "Semester/AI-ML/index.md"
+      - Software Arkitektur & Design Patterns: "Semester/Software-arkitektur-projekter/index.md"
       - Shared: "Semester/Shared/index.md"
